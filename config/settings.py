@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'corsheaders',
     'django_celery_beat',
     'crispy_forms',
-    'crispy_bootstrap5'
+    'crispy_bootstrap5',
+    'LegalForgeAI'
 ]
 
 MIDDLEWARE = [
